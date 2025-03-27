@@ -13,4 +13,4 @@ StripePay is a **modern payment processing app** built using **React** and **Dja
 - **React** – Frontend for a dynamic UI.
 - **Stripe API** – Payment gateway for processing transactions.
 
-This project is a scalable and extendable solution for handling online payments. More features will be added over time!
+This project is a scalable and extendable solution for handling online payments and another things. More features will be added over time!
